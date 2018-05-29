@@ -1,1 +1,2 @@
-# proxylist
+# proxy.list
+:8080
